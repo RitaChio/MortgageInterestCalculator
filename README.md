@@ -1,4 +1,4 @@
-# :bank: MortgageInterestCalculator
+# :bank:  Mortgage Interest Calculator
 A simple console app to calculate mortgage interest rates and total interest paid in C++
 <br/>
 <br/>
